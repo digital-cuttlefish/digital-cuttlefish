@@ -32,6 +32,6 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add snake_animation/github-contribution-grid-snake.svg
-          git add snake_animation/github-contribution-grid-snake-dark.svg?palette=github-dark
+          git add snake_animation/github-contribution-grid-snake-dark.svg
           git commit -m "Update snake animation"
           git push   
